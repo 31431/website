@@ -1,0 +1,53 @@
+body{
+	color: navy;
+	font-size: 20px;
+}
+
+.main{
+	color: red;
+	font-size: 75px;
+	letter-spacing: 2.0;
+	font-family: Helvetica;
+	font-style: thin;
+	line-height: 0.7;
+
+}
+
+.header2{
+	font-family: 'Arvo';
+}
+
+h2{
+	color: red;
+}
+
+#hello-world{
+	font-size: 30px;
+}
+
+.jumbotron{
+	font-size: 120px;
+	font-family: 'Lato';
+	font-weight: 100;
+	background-color: navy;
+	color: white;
+	padding-top: 30px;
+	line-height: 1.0;
+
+}
+.nameheader{
+	font-size:120px;
+}
+
+.subtitle{
+	font-size: 40px;
+	font-family: Helvetica;
+	color: orange;
+	padding-bottom: 0px;
+	line-height: 0;
+}
+
+.belowBand{
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
